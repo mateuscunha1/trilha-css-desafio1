@@ -137,9 +137,10 @@ main p{
 
 footer{
     text-align: center;
-    padding: 5rem 0rem;
+    padding: 3rem 0rem;
     border-top: 1px solid rgba(51, 168, 219, 1);
     background: linear-gradient(180deg, rgba(51, 168, 219, 0), rgba(51, 168, 219, 0.2), rgba(51, 168, 219, 0.2));
+    margin-top: 5rem;
 }
 
 footer p{
